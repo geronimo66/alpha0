@@ -1,5 +1,6 @@
 # alpha0
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17159589.svg)](https://doi.org/10.5281/zenodo.17159589)
 A small, fully **reproducible** calculation of a **geometric frustration correction** $\delta_\eta$ to the ideal depth $n_0=137$, yielding a closed form for  
 
 α⁻¹_theo = 2 + 135 + δ_η  
@@ -63,3 +64,4 @@ License
 Citation
 
 If you use this work, please cite via the provided CITATION.cff.
+**Preprint:** Gerodetti, M. (2025). *alpha0: geometrische Frustrationskorrektur zu α⁻¹(0)* (Preprint). <https://doi.org/10.5281/zenodo.17159589>

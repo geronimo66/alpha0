@@ -28,11 +28,11 @@ url: "https://github.com/geronimo66/alpha0"
 version: "1.0.0"
 date-released: "2025-09-17"
 preferred-citation:
-  type: software
-  title: "alpha0"
-  version: "1.0.0"
+  type: article
+  title: "<Preprint-Titel wie auf Zenodo>"
   authors:
     - family-names: Gerodetti
       given-names: Marco
-  repository-code: "https://github.com/geronimo66/alpha0"
-  date-released: "2025-09-17"
+      orcid: "https://orcid.org/0009-0007-4106-7278"
+  year: 2025
+  doi: 10.5281/zenodo.17159589
