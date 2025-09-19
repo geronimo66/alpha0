@@ -1,0 +1,209 @@
+[
+  {
+    "id": "codata2022",
+    "type": "report",
+    "title": "Recommended Values of the Fundamental Physical Constants: 2022",
+    "author": [{"family": "CODATA Task Group on Fundamental Constants"}],
+    "issued": {"date-parts": [[2022]]}
+  },
+  {
+    "id": "pdg2024",
+    "type": "article-journal",
+    "title": "Review of Particle Physics (2024)",
+    "author": [{"family": "Particle Data Group"}],
+    "issued": {"date-parts": [[2024]]}
+  },
+  {
+    "id": "planck2018",
+    "type": "article-journal",
+    "title": "Planck 2018 results. VI. Cosmological parameters",
+    "container-title": "Astronomy & Astrophysics",
+    "volume": "641",
+    "page": "A6",
+    "author": [{"family": "Planck Collaboration"}],
+    "issued": {"date-parts": [[2020]]},
+    "DOI": "10.1051/0004-6361/201833910"
+  },
+  {
+    "id": "sonnenschein2020",
+    "type": "article-journal",
+    "title": "Projective symmetry group classifications of quantum spin liquids on cubic, bcc, and fcc lattices",
+    "container-title": "Phys. Rev. B",
+    "volume": "102",
+    "page": "125140",
+    "author": [
+      {"family": "Sonnenschein", "given": "J."},
+      {"family": "Chauhan", "given": "A."},
+      {"family": "Iqbal", "given": "Y."},
+      {"family": "Reuther", "given": "J."}
+    ],
+    "issued": {"date-parts": [[2020]]},
+    "DOI": "10.1103/PhysRevB.102.125140"
+  },
+  {
+    "id": "purdueChem",
+    "type": "webpage",
+    "title": "Unit Cells – FCC Basispositionen",
+    "author": [{"family": "Purdue University"}],
+    "issued": {"date-parts": [[2023]]},
+    "URL": "https://www.chem.purdue.edu/gchelp/cchem/Unit_Cell/FCC.html",
+    "accessed": {"date-parts": [[2025, 9, 6]]}
+  },
+  {
+    "id": "gross1973",
+    "type": "article-journal",
+    "title": "Ultraviolet Behavior of Non-Abelian Gauge Theories",
+    "container-title": "Physical Review Letters",
+    "volume": "30",
+    "page": "1343-1346",
+    "author": [{"family": "Gross", "given": "D. J."}, {"family": "Wilczek", "given": "F."}],
+    "issued": {"date-parts": [[1973]]},
+    "DOI": "10.1103/PhysRevLett.30.1343"
+  },
+  {
+    "id": "politzer1973",
+    "type": "article-journal",
+    "title": "Reliable Perturbative Results for Strong Interactions?",
+    "container-title": "Physical Review Letters",
+    "volume": "30",
+    "page": "1346-1349",
+    "author": [
+        {
+            "family": "Politzer",
+            "given": "H. D."
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1973
+            ]
+        ]
+    },
+    "DOI": "10.1103/PhysRevLett.30.1346"
+},
+{
+    "id": "caswell1974",
+    "type": "article-journal",
+    "title": "Asymptotic Behavior of Non-Abelian Gauge Theories to Two-Loop Order",
+    "container-title": "Physical Review Letters",
+    "volume": "33",
+    "page": "244-246",
+    "author": [
+        {
+            "family": "Caswell",
+            "given": "W. E."
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1974
+            ]
+        ]
+    },
+    "DOI": "10.1103/PhysRevLett.33.244"
+},
+{
+    "id": "jones1974",
+    "type": "article-journal",
+    "title": "Two-loop Diagrams in Yang–Mills Theory",
+    "container-title": "Nuclear Physics B",
+    "volume": "75",
+    "page": "531-540",
+    "author": [
+        {
+            "family": "Jones",
+            "given": "D. R. T."
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1974
+            ]
+        ]
+    },
+    "DOI": "10.1016/0550-3213(74)90093-5"
+},
+{
+    "id": "ashcroft1976",
+    "type": "book",
+    "title": "Solid State Physics",
+    "author": [
+        {
+            "family": "Ashcroft",
+            "given": "N. W."
+        },
+        {
+            "family": "Mermin",
+            "given": "N. D."
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1976
+            ]
+        ]
+    },
+    "publisher": "Holt, Rinehart and Winston"
+},
+{
+    "id": "conway1999",
+    "type": "book",
+    "title": "Sphere Packings, Lattices and Groups",
+    "author": [
+        {
+            "family": "Conway",
+            "given": "J. H."
+        },
+        {
+            "family": "Sloane",
+            "given": "N. J. A."
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1999
+            ]
+        ]
+    },
+    "publisher": "Springer"
+},
+{
+  "id": "peskin1995",
+  "type": "book",
+  "title": "An Introduction to Quantum Field Theory",
+  "author": [
+    { "family": "Peskin",   "given": "Michael E." },
+    { "family": "Schroeder","given": "Daniel V." }
+  ],
+  "issued": { "date-parts": [[1995]] },
+  "publisher": "Addison-Wesley"
+},
+{
+    "id": "peskin1995",
+    "type": "book",
+    "title": "An Introduction to Quantum Field Theory",
+    "author": [
+        {
+            "family": "Peskin",
+            "given": "Michael E."
+        },
+        {
+            "family": "Schroeder",
+            "given": "Daniel V."
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1995
+            ]
+        ]
+    },
+    "publisher": "Addison-Wesley"
+}
+]

@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository (software and notebook), please cite it with the metadata below.
+  After the Zenodo V1 preprint is published, please prefer the preprint DOI for citation.
+title: "alpha0: geometric frustration correction to alpha^{-1}(0)"
+abstract: >-
+  A small, fully reproducible calculation of a geometric frustration correction (delta_eta)
+  to the ideal depth n0=137, yielding a closed form for:
+  alpha^{-1}_theo = 2 + 135 + delta_eta;
+  delta_eta = (1 - 1/(3*5*11)) * (9*sqrt(3)) / (pi * (2 + 135)).
+  No first-principles derivation of QED is claimed. The approach is phenomenological (fit-free)
+  and quantifies a geometrically defined packing frustration relative to the FCC reference.
+authors:
+  - family-names: Gerodetti
+    given-names: Marco
+keywords:
+  - fine-structure constant
+  - alpha
+  - geometric frustration
+  - density
+  - sphere packing
+  - FCC
+  - BCC
+  - effective field theory
+license: CC-BY-4.0
+repository-code: "https://github.com/geronimo66/alpha0"
+url: "https://github.com/geronimo66/alpha0"
+version: "1.0.0"
+date-released: "2025-09-17"
+preferred-citation:
+  type: software
+  title: "alpha0"
+  version: "1.0.0"
+  authors:
+    - family-names: Gerodetti
+      given-names: Marco
+  repository-code: "https://github.com/geronimo66/alpha0"
+  date-released: "2025-09-17"

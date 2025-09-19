@@ -1,0 +1,18 @@
+name: alpha0
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core interpreter
+  - python=3.11
+  # Numerical libraries
+  - numpy>=1.26
+  - mpmath>=1.3
+  - sympy>=1.12
+  # Interactive environment
+  - jupyterlab>=4
+  - ipykernel
+  # Visualization (optional)
+  - matplotlib>=3.8  
+  # Pip fallback (add pip-only packages here if needed)
+  - pip

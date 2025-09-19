@@ -1,0 +1,32 @@
+{
+    "title": "alpha0: geometrische Frustrationskorrektur zu α⁻¹(0)",
+    "upload_type": "software",
+    "creators": [
+        {
+            "name": "Gerodetti, Marco",
+            "affiliation": "Independent Researcher",
+            "orcid": "0009-0007-4106-7278"
+        }
+    ],
+    "description": "Reproduzierbare Berechnung einer geometrischen Frustrationskorrektur (δη) zur idealen Tiefe n0=137. Daraus ergibt sich eine geschlossene Form für α⁻¹_theo = 2 + 135 + δη; δη = (1 - 1/(3·5·11)) · (9·√3)/(π·(2 + 135)). Es wird keine ab-initio Herleitung der QED beansprucht. Der Ansatz ist phänomenologisch (fit-frei) und quantifiziert eine geometrisch definierte Packungsfrustration relativ zur FCC-Referenz.",
+    "license": "CC-BY-4.0",
+    "keywords": [
+        "Feinstrukturkonstante",
+        "alpha",
+        "geometrische Frustration",
+        "Kugelpackung",
+        "FCC",
+        "BCC",
+        "Effektive Feldtheorie"
+    ],
+    "related_identifiers": [
+        {
+            "relation": "isSupplementTo",
+            "resource_type": "publication-preprint",
+            "identifier": "https://doi.org/10.5281/zenodo.17159589"
+        }
+    ],
+    "version": "1.0.0",
+    "language": "deu",
+    "notes": "Unterstützendes Repository mit Notebook, Daten und Referenzen zum Preprint."
+}
